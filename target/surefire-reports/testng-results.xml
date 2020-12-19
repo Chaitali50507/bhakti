@@ -1,0 +1,29 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testng-results skipped="0" failed="0" total="6" passed="6">
+  <reporter-output>
+  </reporter-output>
+  <suite name="Suite" duration-ms="17" started-at="2020-12-19T12:37:08Z" finished-at="2020-12-19T12:37:08Z">
+    <groups>
+    </groups>
+    <test name="Test" duration-ms="17" started-at="2020-12-19T12:37:08Z" finished-at="2020-12-19T12:37:08Z">
+      <class name="RahulShettyAcademy.MavenJava.RestAPITest">
+        <test-method status="PASS" signature="DeleteTwitter()[pri:0, instance:RahulShettyAcademy.MavenJava.RestAPITest@61dc03ce]" name="DeleteTwitter" duration-ms="6" started-at="2020-12-19T12:37:08Z" finished-at="2020-12-19T12:37:08Z">
+        </test-method> <!-- DeleteTwitter -->
+        <test-method status="PASS" signature="PostJira()[pri:0, instance:RahulShettyAcademy.MavenJava.RestAPITest@61dc03ce]" name="PostJira" duration-ms="0" started-at="2020-12-19T12:37:08Z" finished-at="2020-12-19T12:37:08Z">
+        </test-method> <!-- PostJira -->
+      </class> <!-- RahulShettyAcademy.MavenJava.RestAPITest -->
+      <class name="RahulShettyAcademy.MavenJava.SeleniumTest">
+        <test-method status="PASS" signature="ElementsUI()[pri:0, instance:RahulShettyAcademy.MavenJava.SeleniumTest@9f70c54]" name="ElementsUI" duration-ms="0" started-at="2020-12-19T12:37:08Z" finished-at="2020-12-19T12:37:08Z">
+        </test-method> <!-- ElementsUI -->
+        <test-method status="PASS" signature="BrowserAutomation()[pri:0, instance:RahulShettyAcademy.MavenJava.SeleniumTest@9f70c54]" name="BrowserAutomation" duration-ms="0" started-at="2020-12-19T12:37:08Z" finished-at="2020-12-19T12:37:08Z">
+        </test-method> <!-- BrowserAutomation -->
+      </class> <!-- RahulShettyAcademy.MavenJava.SeleniumTest -->
+      <class name="RahulShettyAcademy.MavenJava.MobileTest">
+        <test-method status="PASS" signature="IOSApp()[pri:0, instance:RahulShettyAcademy.MavenJava.MobileTest@50f8360d]" name="IOSApp" duration-ms="0" started-at="2020-12-19T12:37:08Z" finished-at="2020-12-19T12:37:08Z">
+        </test-method> <!-- IOSApp -->
+        <test-method status="PASS" signature="NativeAppAndroid()[pri:0, instance:RahulShettyAcademy.MavenJava.MobileTest@50f8360d]" name="NativeAppAndroid" duration-ms="1" started-at="2020-12-19T12:37:08Z" finished-at="2020-12-19T12:37:08Z">
+        </test-method> <!-- NativeAppAndroid -->
+      </class> <!-- RahulShettyAcademy.MavenJava.MobileTest -->
+    </test> <!-- Test -->
+  </suite> <!-- Suite -->
+</testng-results>
